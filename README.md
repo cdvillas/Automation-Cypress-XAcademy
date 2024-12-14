@@ -26,7 +26,7 @@ git clone https://github.com/cdvillas/Automation-Cypress-XAcademy.git
 ### **2. Navegar al directorio del proyecto**
 Cambia al directorio del proyecto:
 ```bash
-cd Automation-Cypress-XAcademy
+cd Cypress-XAcademy
 ```
 ### **3. Instalar las dependencias**
 Asegúrate de tener Node.js instalado en tu sistema. Luego, instala las dependencias del proyecto utilizando:
